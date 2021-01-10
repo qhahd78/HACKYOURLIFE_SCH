@@ -62,7 +62,7 @@ body {
 }
 
 .profile-photo:hover {
-    transform: translate(-50%, -53%);
+    transform: translate(0, -10%);
 }
 
 .profile-photo img {
